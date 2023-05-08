@@ -12,4 +12,4 @@
 
 3.專題題目: 可愛動物作品集       
  - 專題介紹: 利用Wix開發屬於自己的網站。除了展示自己的作品，建立會員登入、線上購買和線上論壇功能。             
- - 實作網址: https://marvelapp.com/prototype/ia747i0        
+ - 實作網址: https://409570092.wixsite.com/my-site        
